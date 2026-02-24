@@ -12,19 +12,19 @@ This repository contains personal cybersecurity projects designed to practice ev
 
 * Conducted a risk assessment on Netflix digital assets, including user accounts, payment systems, mobile apps, APIs, and customer support systems.
 * Identified potential threats, vulnerabilities, and recommended mitigation strategies.
-* Files: `Netflix_Risk_Assessment_Report.pdf`, `Netflix Risk Assessment Chart.pdf`
+* Files: `Netflix_Risk_Assessment_Report .docx.pdf`
 
 ### 2. Personal Laptop Cybersecurity Risk Assessment
 
 * Evaluated personal computing assets to identify cybersecurity risks.
 * Developed a risk register analyzing likelihood, impact, and mitigation strategies.
-* Files: `Laptop_Risk_Assessment_Report.pdf`, `Laptop Risk Assessment Chart.pdf`
+* Files: `Personal_Laptop_Risk_Assessment.docx.pd`
 
 ### 3. Password Policy Document
 
 * Created a personal password security policy based on industry best practices.
 * Outlined password requirements, additional security measures, and implementation guidance.
-* File: `Password_Policy_Document.pdf`
+* File: `Password_Policy_Document.docx.pdf`
 
 ---
 
